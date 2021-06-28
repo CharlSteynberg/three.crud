@@ -1,0 +1,24 @@
+{
+  "name": "three.crud",
+  "version": "1.0.0",
+  "description": "DOM for three.js with crud-like API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlSteynberg/three.crud.git"
+  },
+  "keywords": [
+    "three",
+    "dom",
+    "crud"
+  ],
+  "author": "Charl Steynberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlSteynberg/three.crud/issues"
+  },
+  "homepage": "https://github.com/CharlSteynberg/three.crud#readme"
+}
